@@ -9,7 +9,8 @@ myfile = requests.get(url)
 
 path = 'C:/Users/Admin/Downloads/BSCS.pdf' 
 
-# translate PDF into 1 big array of words
+
+# Expected classes - what was on guide last time
 expectedClasses = [
     'Introduction to IT', 'Applied Probability and Statistics', 'Web Development Foundations',
     'Introduction to Geography', 'Network and Security - Foundations', 'Calculus I',
