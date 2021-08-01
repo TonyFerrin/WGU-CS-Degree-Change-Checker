@@ -8,10 +8,6 @@ url = 'https://www.wgu.edu/content/dam/western-governors/documents/programguides
 myfile = requests.get(url)
 
 path = 'C:/Users/Admin/Downloads/BSCS.pdf' 
-#open('C:/Users/Admin/Downloads/BSCS.pdf', 'wb').write(myfile.content)
-
-# open PDF
-#os.system(path)
 
 # translate PDF into 1 big array of words
 expectedClasses = [
