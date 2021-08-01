@@ -1,6 +1,6 @@
 import os
 import requests
-import pdfplumber
+import pdfplumber # pip install pdfplumber --- https://pypi.org/project/pdfplumber/
 
 url = 'https://www.wgu.edu/content/dam/western-governors/documents/programguides/2017-guides/it/BSCS.pdf'
 
